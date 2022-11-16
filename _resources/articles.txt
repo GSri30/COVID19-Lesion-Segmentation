@@ -1,0 +1,11 @@
+CNN: 
+
+https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+
+https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529
+
+U-Net:
+
+https://towardsdatascience.com/u-net-b229b32b4a71
+
+https://bond-kirill-alexandrovich.medium.com/understanding-unet-27de538e08d8
